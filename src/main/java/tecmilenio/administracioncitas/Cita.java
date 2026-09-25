@@ -33,4 +33,4 @@ public class Cita {
     public String toCSV() {
         return idcita + "," + fechahora + "," + motivo + "," + iddoctor + "," + idpaciente;
     }
-}
+} 
