@@ -15,7 +15,7 @@ Aplicación de consola desarrollada en Java para la gestión de citas medicas. P
    mvn clean package
    ```
 
-## 🚀 Uso del Programa
+## Uso del Programa
 
 Para ejecutar la aplicación de manera portable e independiente del IDE, corre el FAT JAR generado en la carpeta `target`:
 
